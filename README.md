@@ -56,6 +56,8 @@ Skyline/
 ├── src/           # Source code
 ├── tests/         # Test files
 ├── config/        # Configuration files
+├── .gitignore     # Git ignore file
+├── CONTRIBUTING.md # Contribution guidelines
 └── README.md      # This file
 ```
 
@@ -65,15 +67,20 @@ Skyline TV is a proud Nigerian broadcasting company dedicated to delivering qual
 
 ## Contributing
 
-We welcome contributions from developers, designers, and creators! Please follow these steps:
+We welcome contributions from developers, designers, and creators! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines on:
 
+- 🐛 How to report bugs
+- ✨ How to request features
+- 💻 How to contribute code
+- 📝 Our Code of Conduct
+- 🔄 Pull request process
+
+Quick start:
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-Please ensure your contributions align with our content standards and technical requirements.
 
 ## License
 
@@ -82,9 +89,14 @@ Please ensure your contributions align with our content standards and technical 
 ## Contact & Support
 
 - 🌐 **Website**: [www.skylinetv.ng](https://www.skylinetv.ng)
+- 📧 **Email**: [support@skylinetv.ng](mailto:support@skylinetv.ng)
 - 📧 **Issues**: [Report bugs or request features](https://github.com/Abdulkano/Skyline/issues)
 - 💬 **Discussions**: [Join our community discussions](https://github.com/Abdulkano/Skyline/discussions)
 - 📞 **Contact**: [Get in touch with us](https://www.skylinetv.ng/contact)
+
+## Code of Conduct
+
+We are committed to providing a welcoming and inclusive environment. Please review our [Code of Conduct](./CONTRIBUTING.md#code-of-conduct) in the CONTRIBUTING.md file.
 
 ---
 
